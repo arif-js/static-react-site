@@ -1,0 +1,194 @@
+.header {
+  align-items: center;
+  background-color: #1b1f28;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #8e8e8e09;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 11px 0px 11px;
+  position: relative;
+}
+
+.header .div-header-text {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 10px 179.88px 10px 178.12px;
+  position: relative;
+}
+
+.header .try-a-free-trial-of {
+  color: #ffffff;
+  font-family: 'Inter-Medium', Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .link {
+  align-items: flex-start;
+  background-color: #3b7dff;
+  border-radius: 5px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 4px 23.28px 6px 24px;
+  position: relative;
+}
+
+.header .text-wrapper {
+  color: #ffffff;
+  font-family: 'Inter-Bold', Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .div-nav-container {
+  height: 60px;
+  max-width: 1320px;
+  position: relative;
+  width: 1320px;
+}
+
+.header .link-home {
+  height: 36px;
+  left: 20px;
+  position: absolute;
+  top: 15px;
+  width: 154px;
+}
+
+.header .navbar {
+  height: 50px;
+  left: 199px;
+  position: absolute;
+  top: 10px;
+  width: 577px;
+}
+
+.header .div {
+  color: #3b7dff;
+  font-family: 'Inter-Medium', Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 24px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.header .link-product {
+  color: #ffffff99;
+  font-family: 'Inter-Medium', Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 24px;
+  left: 102px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.header .link-about {
+  color: #ffffff99;
+  font-family: 'Inter-Medium', Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 24px;
+  left: 199px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.header .link-resources {
+  color: #ffffff99;
+  font-family: 'Inter-Medium', Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 24px;
+  left: 282px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.header .link-power-BI {
+  color: #ffffff99;
+  font-family: 'Inter-Medium', Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 24px;
+  left: 397px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.header .link-careers {
+  color: #ffffff99;
+  font-family: 'Inter-Medium', Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 24px;
+  left: 500px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.header .div-wrapper {
+  align-items: flex-start;
+  background-color: #3b7dff26;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  left: 1169px;
+  padding: 12px 24.3px 14px 23px;
+  position: absolute;
+  top: 10px;
+  width: 131px;
+}
+
+.header .text-wrapper-2 {
+  color: #3b7dff;
+  font-family: 'Inter-Bold', Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
